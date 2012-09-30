@@ -8,7 +8,12 @@ use NXC::Wrapper::Utils;
 sub BASIC {
     my $r = shift;
 
-    $r->BASIC_MOVEMENTS( 2 );
+    $r->BASIC_MOVEMENTS(
+        motor_1   => "B",
+        motor_2   => "A",
+        speed     => "three_quarters",
+        turn_time => 3
+    );
 };
 
 sub COLOR_SORT {

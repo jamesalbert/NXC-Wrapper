@@ -4,8 +4,11 @@ motors:
     AB: AB
     AC: AC
     B: B
+    BA: BA
     BC: BC
     C: C
+    CA: CA
+    CB: CB
 speed:
     stop: 0
     quarter: 25
