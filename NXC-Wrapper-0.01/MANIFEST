@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+OUTPUT/nxcoutput.nxc
+README
+README.md
+dist.ini
+lib/NXC/Wrapper.pm
+lib/NXC/Wrapper/Utils.pm
