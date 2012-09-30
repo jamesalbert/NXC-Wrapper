@@ -1,0 +1,15 @@
+---
+motors:
+    A: A
+    AB: AB
+    AC: AC
+    B: B
+    BC: BC
+    C: C
+speed:
+    stop: 0
+    quarter: 25
+    half: 50
+    three_quarters: 75
+    full: 100
+
